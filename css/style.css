@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+.navbar .navbar-brand img{
+    height: 110px;
+    width: 110px;
+}
+
+.carousel .carousel-item {
+    height: 500px;
+}
+
+.carousel .carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    padding: 10px 0;
+}
+
+.search-bar {
+    display: flex;
+}
+
+.search-bar input {
+    flex-grow: 1;
+    margin-right: 10px;
+}
+.card {
+    margin: 20px 0;
+}
+
+.card-body {
+    padding: 20px;
+}
